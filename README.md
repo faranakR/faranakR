@@ -1,47 +1,40 @@
-# Hi, I'm Faranak Rajabi 👋
+<div align="center">
+  <h1>Hi there, I'm Faranak! 👋</h1>
+  <p>🎓 Ph.D. Student @ UCSB | Computational Scientist | Developer</p>
+</div>
 
-Ph.D. Student in Mechanical Engineering | M.S. Student in Computer Science at UC Santa Barbara
+### About Me 🚀
+Computational scientist at UC Santa Barbara's CASL lab, working on advanced computational methods for biological systems. Combining scientific computing, numerical analysis, and machine learning to solve complex biological problems.
 
-## About Me
+### Tech Stack 💻
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-I'm a computational scientist working at the intersection of scientific computing, numerical analysis, and machine learning. Currently at UC Santa Barbara's Computational Applied Science Laboratory (CASL), I develop advanced computational methods for complex biological systems.
-
-### 🔬 Research Focus
-- Mathematical Modeling and Simulation
+### Research Focus 🔬
+- Mathematical Modeling & Simulation
 - Scientific Software Development
-- Computational Physics Simulations and Modeling
+- Computational Physics
 - Machine Learning for PDEs
 
-### 🎓 Education
-- Ph.D. in Mechanical Engineering, UC Santa Barbara (2022 - Present)
-- M.S. in Computer Science, UC Santa Barbara (2023 - Present)
-- B.S. in Aerospace Engineering, Sharif University of Technology (2016 - 2021)
+### Latest Work 📚
+- 📖 Optimal Control for Stochastic Neural Oscillators
+- 🛠️ CASL-ForgeX: Hamilton-Jacobi Equations Solver
+- 🧠 Adaptive Deep Brain Stimulation Research
 
-### 🚀 Current Projects
-- Developing computational methods for protein-aggregation modeling in continuum media
-- Creating Level Set Methods software package in C++ with MATLAB interface
-- Implementing machine learning-based approaches to Adaptive Deep Brain Stimulation
-- Designing optimal control strategies for neural oscillator networks
+### Let's Connect! 🤝
+[![Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://faranakrajabi.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faranak-rajabi)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faranakrajabi@ucsb.edu)
 
-### 💻 Technical Skills
-- **Programming Languages**: Python, MATLAB, C++
-- **Tools & Frameworks**: Linux, GitHub, NumPy, Pandas, PyTorch, TensorFlow
-- **Areas**: Scientific Computing, Numerical Methods, Machine Learning
-
-### 🏆 Recent Publications
-- "Optimal Control for Stochastic Neural Oscillators" (Under review at PLOS Computational Biology)
-- "CASL-ForgeX: A Comprehensive Guide to Solving Deterministic and Stochastic Hamilton-Jacobi Equations" (Under review)
-
-### 🎯 Academic Leadership
-- Career Mentor Fellow at American Physics Society
-- Graduate Division Mentor at UCSB
-- Women in STEM Mentor at UCSB
-
-### 📫 Connect With Me
-- Email: faranakrajabi@ucsb.edu
-- LinkedIn: [linkedin.com/in/faranak-rajabi](https://linkedin.com/in/faranak-rajabi)
-- Website: [faranakrajabi.com](https://faranakrajabi.com)
-
----
-
-[![Faranak's GitHub stats](https://github-readme-stats.vercel.app/api?username=faranakR&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faranakR&show_icons=true&theme=radical)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faranakR&layout=compact&theme=radical)
+  
+</div>
