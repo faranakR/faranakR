@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Faranak! 👋</h1>
-  <p>🎓 Ph.D. Student @ UCSB | Computational Scientist | Developer</p>
+  <p>🎓 Ph.D. Student @ UCSB | Computational Science Researcher | Scientific Software Developer </p>
 </div>
 
 ### About Me 🚀
