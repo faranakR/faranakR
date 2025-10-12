@@ -1,8 +1,26 @@
 <div align="center">
   <h1>Faranak Rajabi</h1>
-  <p>Ph.D. Candidate · Computational Applied Science Laboratory (CASL) · UC Santa Barbara</p>
-  <p><a href="mailto:faranakrajabi@ucsb.edu">faranakrajabi@ucsb.edu</a> | <a href="https://faranakrajabi.com">faranakrajabi.com</a> | <a href="https://linkedin.com/in/faranak-rajabi">LinkedIn</a> | <a href="https://github.com/faranakR">GitHub</a></p>
+  <p><strong>Ph.D. Candidate · Computational Applied Science Laboratory (CASL) · UC Santa Barbara</strong></p>
+
+  <p>
+    <a href="mailto:faranakrajabi@ucsb.edu">
+      <img src="https://img.shields.io/badge/Email-faranakrajabi%40ucsb.edu-D14836?style=flat&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://faranakrajabi.com">
+      <img src="https://img.shields.io/badge/Website-faranakrajabi.com-2E3A59?style=flat&logo=firefox-browser&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/faranak-rajabi">
+      <img src="https://img.shields.io/badge/LinkedIn-faranak--rajabi-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/faranakR">
+      <img src="https://img.shields.io/badge/GitHub-faranakR-181717?style=flat&logo=github&logoColor=white" />
+    </a>
+    <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
+      <img src="https://img.shields.io/badge/Google%20Scholar-Faranak%20Rajabi-4285F4?style=flat&logo=google-scholar&logoColor=white" />
+    </a>
+  </p>
 </div>
+
 
 ---
 
