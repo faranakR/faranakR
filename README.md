@@ -20,14 +20,6 @@ My work develops **high-performance computational frameworks** for solving **par
 
 ---
 
-### Selected Projects
-- **CASL-HJX** – High-order C++/PETSc solver for deterministic and stochastic Hamilton–Jacobi equations  
-- **Diffusion-Nodes-MLS** – Adaptive implicit solver for time-dependent heat transport using BDF2 and θ-methods  
-- **CASL-ForgeX** – GPU-accelerated Hamilton–Jacobi–Bellman framework for stochastic control  
-- **Stochastic Neural Oscillator Control** – Event-driven optimal control of noisy dynamical systems  
-
----
-
 ### Technical Stack
 **Languages:** C++, Python, MATLAB, CUDA  
 **Frameworks & Libraries:** PETSc, MPI, p4est, PyTorch, TensorFlow, JAX  
