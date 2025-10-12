@@ -1,40 +1,59 @@
 <div align="center">
-  <h1>Hi there, I'm Faranak! 👋</h1>
-  <p>🎓 Ph.D. Student @ UCSB | Computational Science Researcher | Scientific Software Developer </p>
+  <h1>Faranak Rajabi</h1>
+  <p>Ph.D. Candidate · Computational Applied Science Laboratory (CASL) · UC Santa Barbara</p>
+  <p><a href="mailto:faranakrajabi@ucsb.edu">faranakrajabi@ucsb.edu</a> | <a href="https://faranakrajabi.com">faranakrajabi.com</a> | <a href="https://linkedin.com/in/faranak-rajabi">LinkedIn</a> | <a href="https://github.com/faranakR">GitHub</a></p>
 </div>
 
-### About Me 🚀
-Computational scientist at UC Santa Barbara's CASL lab, working on advanced computational methods for biological systems. Combining scientific computing, numerical analysis, and machine learning to solve complex biological problems.
+---
 
-### Tech Stack 💻
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Research Overview
+I am a Ph.D. candidate in Mechanical Engineering and Computer Science at UC Santa Barbara, working in the **Computational Applied Science Laboratory (CASL)** under Prof. Frederic Gibou and Prof. Jeff Moehlis.  
+My work develops **high-performance computational frameworks** for solving **partial differential equations (PDEs)** with applications in **optimal control**, **stochastic dynamics**, and **biophysical modeling**.
 
-### Research Focus 🔬
-- Mathematical Modeling & Simulation
-- Scientific Software Development
-- Computational Physics
-- Machine Learning for PDEs
+---
 
-### Latest Work 📚
-- 📖 Optimal Control for Stochastic Neural Oscillators
-- 🛠️ CASL-ForgeX: Hamilton-Jacobi Equations Solver
-- 🧠 Adaptive Deep Brain Stimulation Research
+### Areas of Expertise
+- **Numerical Methods for PDEs:** Hamilton–Jacobi, Poisson, Heat, and Stefan equations  
+- **High-Performance Computing:** PETSc, MPI, p4est, GPU acceleration (CUDA)  
+- **Scientific Software Engineering:** Large-scale C++ development, distributed simulation frameworks  
+- **Machine Learning for Physics:** Hybrid physics-ML solvers, signal-processing-based models for control and prediction  
 
-### Let's Connect! 🤝
-[![Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://faranakrajabi.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faranak-rajabi)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faranakrajabi@ucsb.edu)
+---
+
+### Selected Projects
+- **CASL-HJX** – High-order C++/PETSc solver for deterministic and stochastic Hamilton–Jacobi equations  
+- **Diffusion-Nodes-MLS** – Adaptive implicit solver for time-dependent heat transport using BDF2 and θ-methods  
+- **CASL-ForgeX** – GPU-accelerated Hamilton–Jacobi–Bellman framework for stochastic control  
+- **Stochastic Neural Oscillator Control** – Event-driven optimal control of noisy dynamical systems  
+
+---
+
+### Technical Stack
+**Languages:** C++, Python, MATLAB, CUDA  
+**Frameworks & Libraries:** PETSc, MPI, p4est, PyTorch, TensorFlow, JAX  
+**Methods:** Level-Set, Finite Difference, Ghost Fluid Method, Adaptive Mesh Refinement  
+**Domains:** Scientific Computing, HPC, Computational Physics, Machine Learning for PDEs  
+
+---
+
+### Recent Publications
+- *Optimal Control for Stochastic Neural Oscillators*, **Biological Cybernetics** (2025)  
+- *CASL-HJX: A Comprehensive Guide to Solving Deterministic and Stochastic Hamilton–Jacobi Equations*, **Computer Physics Communications** (under review)  
+- *Magnitude-Constrained Optimal Chaotic Desynchronization*, **Frontiers in Network Physiology** (2025)  
+
+[Full publication list →](https://faranakrajabi.com)
+
+---
+
+### Academic Background
+- **Ph.D. Mechanical Engineering**, UC Santa Barbara (3.94 GPA)  
+  *Dissertation: Advanced Computational Methods for Complex Biological Systems*  
+- **M.S. Computer Science**, UC Santa Barbara (4.00 GPA)  
+  *Concurrent degree focused on algorithms, ML, and distributed systems*  
+
+---
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faranakR&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faranakR&layout=compact&theme=radical)
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=faranakR&show_icons=true&theme=transparent&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faranakR&layout=compact&theme=transparent&hide_border=true" width="48%">
 </div>
